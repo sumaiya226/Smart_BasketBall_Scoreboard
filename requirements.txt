@@ -1,0 +1,8 @@
+# Object Detection Requirements
+
+cvzone
+ultralytics
+matplotlib
+numpy
+opencv-python
+Pillow
